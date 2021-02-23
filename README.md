@@ -8,6 +8,8 @@ This repository contains all the all scripts and datasets used in the work descr
 ```
 Hoppe, F., Dessì, D., & Sack, H. (2021). Deep Learning meets Knowledge Graphs for Scholarly Data Classification. In: Companion Proceedings of the Web Conference 2021 (WWW '21 Companion).```
 
+``` 
+
 Bibtex:
 
 ```
